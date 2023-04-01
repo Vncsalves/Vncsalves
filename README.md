@@ -1,16 +1,15 @@
-### Hi there 👋
+## hello world, eu sou o Vinícius 🖐️🖖 
+### Estudante da ETEC Antõnio Devisate 📚 
+### Programador iníciante 🌎 
+<br>
 
-<!--
-**Vncsalves/Vncsalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-alves-b169b8268/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vncs_as/?next=%2F)
 
-Here are some ideas to get you started:
+![Vncsalves GitHub stats](https://github-readme-stats.vercel.app/api?username=Vncsalves&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens já utilizadas:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vncsalves&hide_progress=true)](https://github.com/Vncsalves/github-readme-stats)
+
+#### "A obsessão vence o talento, todas as vezes."
