@@ -1,5 +1,5 @@
 ## hello world, eu sou o Vinícius 🖐️🖖 
-### Estudante da ETEC Antõnio Devisate 📚 
+### Estudante da ETEC Antônio Devisate 📚 
 ### Programador iníciante 🌎 
 <br>
 
