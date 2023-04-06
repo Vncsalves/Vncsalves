@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Vncsalves2278)
 
 
-![Vncsalves GitHub stats](https://github-readme-stats.vercel.app/api?username=Vncsalves&show_icons=true&theme=radical)
+![Vncsalves GitHub stats](https://github-readme-stats.vercel.app/api?username=Vncsalves&show_icons=true&theme=dark)
 ### Linguagens já utilizadas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vncsalves&hide_progress=true=icons=true&theme=radical&heigh=10px)](https://github.com/Vncsalves/github-readme-stats)
 
