@@ -22,20 +22,22 @@
 
 <div align="left">
   <a href="https://www.instagram.com/vncs_as/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="viniciusalvesdesantana05@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/vinicius-alves-de-santana/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
 
-###
+<div align="left">
+<p align="left">Um garoto apaixonado por programação buscando conhecimento e evolução, aqui você vai achar alguns estudos e testes de desenvolvimento, espero que goste do que vai ver e que isso possa ser útil para você, não esqueça, a obsessão vence o talento </p>
+<img align="left" height="130" src="https://github.com/user-attachments/assets/8294da5b-8c21-46c4-9fbd-b5b32ae339cf"  />
+</div>
 
 
-<img align="left" height="150" src="https://github.com/user-attachments/assets/8294da5b-8c21-46c4-9fbd-b5b32ae339cf"  />
 
 <br clear="both">
 <br>
