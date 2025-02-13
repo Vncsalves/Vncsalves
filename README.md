@@ -32,14 +32,12 @@
   </a>
 </div>
 
+###
+
 <div align="left">
 <p align="left">Um garoto apaixonado por programação buscando conhecimento e evolução, aqui você vai achar alguns estudos e testes de desenvolvimento, espero que goste do que vai ver e que isso possa ser útil para você, não esqueça, a obsessão vence o talento </p>
-<img align="left" height="200" src="https://github.com/user-attachments/assets/8294da5b-8c21-46c4-9fbd-b5b32ae339cf"  />
 </div>
 
-
-
-<br clear="both">
 <br>
 
 <div align="left">
