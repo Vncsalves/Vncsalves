@@ -1,4 +1,4 @@
-<h2 align="left">hello world, eu sou o Vinícius 🐲</h2>
+<h2 align="left">Hello world, eu sou o Vinícius</h2>
 
 ###
 
