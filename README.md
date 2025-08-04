@@ -70,9 +70,9 @@ Transformar ideias em código e ver o impacto positivo que a tecnologia pode ter
 ## 📊 Estatísticas GitHub
 
 <div align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vncsalves&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vncsalves&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vncsalves&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vncsalves&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vncsalves&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vncsalves&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -80,7 +80,7 @@ Transformar ideias em código e ver o impacto positivo que a tecnologia pode ter
 ## 📈 Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vncsalves&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vncsalves&theme=dracula&hide_border=true" alt="Activity Graph" />
 </div>
 ---
 
